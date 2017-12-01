@@ -1,2 +1,5 @@
-# php7.2-dockerimages
-Docker images with PHP 7.2
+# PHP 7.2 Docker Image
+
+Can be found on Docker Hub [tetsuobe/php7.2](https://hub.docker.com/r/tetsuobe/php7.2/)
+
+PHP-fpm-alpine 7.2.0
