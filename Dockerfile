@@ -1,4 +1,4 @@
-FROM php:7.2.1-fpm-alpine
+FROM php:7.2.8-fpm-alpine
 
 ENV BUILD_DEPS \
                 zlib-dev \
